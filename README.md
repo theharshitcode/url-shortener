@@ -2,6 +2,10 @@
 
 This is a full-stack URL shortener application that allows users to shorten long URLs into a more manageable and shareable format. The application consists of a React frontend and a Node.js (Express) backend.
 
+## Screenshots
+
+![Home Page](screenshots/image.png)
+
 ## Features
 
 -   **Shorten URLs:** Convert long URLs into short, unique links.
