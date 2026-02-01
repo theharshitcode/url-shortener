@@ -6,7 +6,7 @@ const userRouter = require('./routes/short-url')
 const cors = require('cors')
 
 
-Short_Url(`mongodb://localhost:27017/Short_URL`)
+Short_Url(MongoDB_URL)
 .then(()=> console.log('MongoDb Connected'))
 .catch((err)=> console.log("Error Occur" , err));
 app.use(cors());
