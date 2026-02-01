@@ -4,7 +4,7 @@ This is a full-stack URL shortener application that allows users to shorten long
 
 ## Screenshots
 
-![Home Page](screenshots/image.png)
+![Home Page](./screenshots/image.png)
 
 ## Features
 
